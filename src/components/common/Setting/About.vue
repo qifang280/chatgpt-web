@@ -42,9 +42,9 @@ onMounted(() => {
     <div class="p-4 space-y-4">
 			<p>Version: GPT-3.5</p>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <p>
-          谢谢使用!
-        </p>
+				<p>
+					本网站由<a href="https://www.567bus.shop/" style='color:blue'> 567BUS网上商店</a> 免费提供，请勿用于违法行为或商业活动!!
+				</p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
       <p v-if="isChatGPTAPI">

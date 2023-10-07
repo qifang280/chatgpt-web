@@ -480,7 +480,7 @@ onUnmounted(() => {
         >
           <template v-if="!dataSources.length">
             <div class="flex items-center justify-center mt-4 text-center text-neutral-300">
-              <span>Hello Ai~</span>
+              <span>Welcome to 567BUS~</span>
             </div>
           </template>
           <template v-else>

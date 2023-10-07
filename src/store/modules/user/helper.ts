@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: '',
       name: 'ROBT',
-      description: '您的智能助手,小白~',
+      description: '您的智能助手,567小白~',
     },
   }
 }

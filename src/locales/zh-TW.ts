@@ -25,7 +25,7 @@ export default {
     success: '操作成功',
     failed: '操作失敗',
     verify: '驗證',
-    unauthorizedTips: '未經授權，請先激活驗證。',
+    unauthorizedTips: '未經授權',
     stopResponding: '停止回應',
   },
   chat: {
