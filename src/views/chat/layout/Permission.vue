@@ -60,7 +60,7 @@ function handlePress(event: KeyboardEvent) {
 					 ChatGPT
           </h2>
           <p class="text-base text-center text-slate-500 dark:text-slate-500">
-            {{ $t('common.unauthorizedTips') }}<a href="https://t.me/bus5678"  style='color:blue'>，点击加入群组</a>，获取卡密
+            {{ $t('common.unauthorizedTips') }}<a href="https://t.me/bus5678"  style='color:blue'> 点击加入群组 </a>获取卡密
           </p>
           <Icon403 class="w-[200px] m-auto" />
         </header>
